@@ -1,0 +1,160 @@
+.flex-container {
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  padding-right: 200px;
+}
+
+.skip {
+  color: #fb964b;
+}
+h1 {
+  color: #575757;
+  font-size: 45px;
+}
+p {
+  color: #828282;
+}
+
+.a {
+  color: #fefcfa;
+  padding: 15px;
+  border-radius: 50px;
+  width: 140px;
+  font-size: medium;
+  background-image: linear-gradient(
+    to right,
+    #fb8d47,
+    #fb8d47,
+    #fd673a,
+    #fd5231
+  );
+  border-color: transparent;
+}
+
+.flex-item {
+  border: 2px;
+  padding: 100px;
+}
+
+.flex-container-about {
+  display: flex;
+  margin: 2px;
+  justify-content: center;
+  background-image: url("images/shapes/7.png");
+}
+.flex-item-a {
+  width: 20%;
+  height: 20%;
+  padding-right: 10px;
+}
+.flex-item-b {
+  width: 300px;
+  max-height: 100px;
+  float: right;
+  padding-left: 200px;
+  padding-top: 40px;
+}
+
+h2 {
+  color: #575757;
+}
+p {
+  color: #828282;
+}
+.my {
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.p {
+  color: #828282;
+}
+h3 {
+  color: #575757;
+  font-size: 30px;
+}
+
+.flex-container-food {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 50px 100px 50px;
+}
+
+.flex-item-box-1 {
+  margin-right: 30px;
+  padding: 20px;
+  border-radius: 25px;
+  box-shadow: -1px 6px 22px 1px rgba(102, 96, 96, 0.81);
+  -webkit-box-shadow: -1px 6px 22px 1px rgba(112, 103, 103, 0.81);
+  -moz-box-shadow: -1px 6px 22px 1px rgba(100, 94, 94, 0.81);
+}
+
+.flex-item-box-2 {
+  margin: 20px;
+}
+.card {
+  width: 100%;
+  height: 280px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.flex-container-numbers {
+  display: flex;
+  border: solid;
+  width: 80%;
+  height: 150px;
+  margin-left: 90px;
+  border-radius: 20px;
+  border-color: #828282;
+  box-shadow: #828282;
+}
+
+.flex-item-k {
+  margin: 50px;
+  padding-left: 80px;
+}
+
+.flex-item-m {
+  margin: 50px;
+}
+
+.flex-item-short {
+  margin: 50px;
+}
+.k {
+  font-size: 30px;
+  font-weight: bold;
+}
+.eat {
+  background-color: black;
+  margin-top: 50px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+}
+h5 {
+  font-size: 30px;
+  color: antiquewhite;
+  padding-top: 20px;
+  margin: 10px;
+}
+.healthy {
+  text-align: center;
+  color: #828282;
+  padding-bottom: 50px;
+}
